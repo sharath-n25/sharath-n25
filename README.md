@@ -9,13 +9,15 @@
 <img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- > role        : Software Developer | Backend Specialist
-- > mindset     : Problem-solving • System clarity • Scalability
-- > currently   : DSA in C++ | ASP.NET Core Web API
-- > principles  : Clean code • Strong fundamentals • Consistency
-- > method      : Think → Build → Optimize
-- > focus       : Performance • Maintainability • Real-world impact
-- > goal        : Build systems that scale and last
+class Sharath extends Developer {
+  role = "Backend Specialist";
+  mindset = ["solve", "scale"];
+  stack = ["DSA in C++", "ASP.NET Core Web API"];
+  principles = ["clean code", "strong fundamentals", "consistency"];
+  method() { return "Think → Build → Optimize"; }
+  focus = ["performance", "maintainability"];
+}
+
 
 
 ## 📊 GitHub Stats & Trophies
