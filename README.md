@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sharath%20N&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+<img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" alt="Banner" width="100%" />
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sharath-webcode">
     <img src="https://komarev.com/ghpvc/?username=sharath-webcode&label=Profile%20views&color=00FFFF&style=flat-square" alt="sharath-webcode's profile views" />
   </a>
 </p>
-
-<img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
  <b>Developer Sharath() {</b><br>
